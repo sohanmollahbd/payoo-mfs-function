@@ -9,6 +9,7 @@ document.getElementById('btn-add-money')
          alert('failed to add money');
          return;
         }
+    
         
         // wrong way to verify. do not try it at your serious website
         if(pinNumber === 1234){
